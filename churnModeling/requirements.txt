@@ -1,3 +1,5 @@
-python 3.11.9
-tensorflow
-
+python==3.11.9
+tensorflow==2.19.0
+streamlit==1.44.1
+pandas==2.2.3
+numpy==2.1.3
