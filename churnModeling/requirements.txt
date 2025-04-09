@@ -1,5 +1,5 @@
 python 3.11.9
-tensorflow
+tensorflow 2.19.0
 pandas
 numpy
 seaborn
