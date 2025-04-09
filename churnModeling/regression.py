@@ -6,7 +6,7 @@ import pandas as pd
 import pickle
 
 
-model = tf.keras.models.load_model('C:/Users/verma/OneDrive/Desktop/training/churnModeling/regressionmodel.h5')
+model = tf.keras.models.load_model('regressionmodel.h5')
 
 
 
