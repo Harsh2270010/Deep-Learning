@@ -5,4 +5,4 @@ seaborn
 scikit-learn
 pickle
 streamlit
-pip install --upgrade pip
+pip 25.0.1
